@@ -1,2 +1,2 @@
-# ecommerce-sales-project
+# Ecommerce-sales-project
 Data analysis project using SQL
