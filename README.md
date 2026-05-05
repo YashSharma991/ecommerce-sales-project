@@ -23,3 +23,22 @@ Category-wise sales
 
 🧠 Skills Used
 SQL | Joins | Group By | Aggregations | Window Functions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
